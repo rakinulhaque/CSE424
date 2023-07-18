@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1CHWwUoSSECU3L7FNYTcUzHB3ULpuuQpRJKYSzygWQnU/edit#slide=id.g25697fbb858_0_33
+https://docs.google.com/presentation/d/1mQFTY52qn7sDtrpf-i7ygUzCqb8SiXgSKQybkzFi4AY/edit#slide=id.g2313be71b03_4_41
 
 Project title:
 Detection and Correction of Grammatical Errors
