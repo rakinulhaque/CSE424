@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/1572347283gffxwtjtrvyc
+https://www.overleaf.com/read/jppjbghjxytw
 
 Unlisted YouTube video:
 https://youtu.be/ZYltnqQ4CHE
